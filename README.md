@@ -1,7 +1,7 @@
 # Faculty
 
 ### Assignment, class and language
-This is the solution to the assignment **Faculty** of class **software developement 2,** written in Java with my two team members Korbinian Karl @korbster and Ehsan Moslehi @eca852.
+This is the solution to the assignment **Faculty** of class **software developement 2,** written in Java with my two team members Korbinian Karl @korbster and [Ehsan Moslehi] (https://github.com/eca852).
 
 ### Requirements
 This assignment required handling lists of the java collection framework. We should also practice working with packages and code analysing tools, writing JUnit tests, learn how **test driven developement** works and taking first steps working with a version control system (in our case: working with Subversion). This program consists of 10 classes: interface **IFaculty,** class **Faculty,**, class **Professor,** class **Lecture,** a test class **FacultyTest** and several exception classes **FacultyException, ProfessorExistsException, ProfessorNotExistsException, LectureNotEmptyException** and **LectureNotExistsException**. The objective of this task was to write a tiny program to organize lectures, professors and faculties of a university and to reach complete path coverage with our JUnit tests. 
